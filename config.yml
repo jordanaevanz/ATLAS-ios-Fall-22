@@ -10,11 +10,14 @@ repo_names:
   - 11-models-from-data 
   - UXUICriticism
 
-# Provide any URLs for your Videos
+
 10-ux-ui-criticism:
   - https://vimeo.com/756987721
   - https://vimeo.com/756993415
 
-# Provide any URLs for your Data Models assignment
+
 11-models-from-data:
   - https://github.com/jordanaevanz/11-models-from-data/tree/main/personal_project
+
+
+project-check-in-1: https://github.com/jordanaevanz/ATLAS-ios-Fall-22/issues/2
